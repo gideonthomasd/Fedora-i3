@@ -4,4 +4,4 @@ Use sudo yum localinstall balena-etcher-....rpm
 
 Download scid from https://sourceforge.net/projects/scid/files/
 
-Use 
+Use tar -xvzf scid_linux_....tar.gz
