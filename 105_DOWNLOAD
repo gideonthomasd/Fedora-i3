@@ -1,6 +1,6 @@
 Download balena_etcher...rpm from https://github.com/balena-io/etcher/releases/
 
-Use 
+Use sudo yum localinstall balena-etcher-....rpm
 
 Download scid from https://sourceforge.net/projects/scid/files/
 
