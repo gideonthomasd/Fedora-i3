@@ -1,0 +1,33 @@
+# Font configuration
+font:
+  normal:
+    family: "Monospace"
+    style: Medium
+
+  # Bold font face
+  bold:
+    family: "Monospace"
+    style: Bold
+
+  # Italic font face
+  italic:
+    family: "Monospace"
+    style: Italic
+
+  # Bold italic font face
+  bold_italic:
+    family: "Monospace"
+    style: Bold Italic
+
+  # Point size
+  size: 13
+
+  # Offset
+  #offset:
+  #  x: 0
+  #  y: 0
+
+  # Glyph offset
+  #glyph_offset:
+  #  x: 0
+  #  y: 0
