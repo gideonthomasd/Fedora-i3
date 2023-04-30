@@ -1,0 +1,11 @@
+Terminal,alacritty,utilities-terminal
+Browser,brave-browser,brave-browser
+File manager,pcmanfm,system-file-manager
+Steam, steam, steam
+Scid Chess, ~/Fedora-i3/scid_linux/scid/scid, scid
+Virtual Manager, virt-manager, virt-manager
+Pycharm, pycharm-community, pycharm
+Libre Writer, libreoffice --writer, libreoffice-writer
+Timeshift, su-to-root -X -c timeshift-gtk, timeshift
+Packages, su-to-root -X -c mx-packageinstaller, mx-packageinstaller
+^sep()
